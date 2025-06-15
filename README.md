@@ -1,6 +1,8 @@
 
 # Map Search With Trained Machine Learning Models - COS30019
 
+![Demo image of map search program](docs/demo-image.png)
+
 This repository contains a traffic navigation system for the city of Boroondara, Victoria, informed by six search algorithms and three machine learning models.
 
 Search algorithms:
